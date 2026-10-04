@@ -27,31 +27,11 @@
 <img align="right" src="1313.gif" width="290" alt="coding" />
 
 * 🌱 در حال توسعه بک‌اند با **Clean Architecture** و **ASP.NET Core** و فرانت‌اند با **Angular & Tailwind CSS**
-* 🏗️ تمرکز فعلی: سیستم مدیریت سفارشات (**Podora**)، سیستم رزرو تور (**Tourino**) و سیستم مدیریت املاک
 * 💡 علاقه‌مند به معماری تمیز، Repository Pattern و سیستم‌های احراز هویت (Identity & OTP)
 * ⚡ میان‌بُر ندارم؛ فقط **کد تمیز**، **کامیت منظم** و **قهوه‌ی زیاد** ☕
 * 🎯 هدف فعلی: تسلط عمیق‌تر روی **Docker** و **Microservices**
 * 💬 ازم بپرس درباره: **C#‎، .NET، Angular، SQL و طراحی API**
 * 📫 ارتباط با من: [t.me/amir_hossein83s](https://t.me/amir_hossein83s)
-
----
-
-### 🚀 پروژه‌هایی که روشون کار می‌کنم
-
-| پروژه | توضیح | استک |
-|:---:|:---|:---:|
-| 🍕 **Podora** | سیستم مدیریت سفارشات | `ASP.NET Core` `EF Core` `Angular` |
-| 🌍 **Tourino** | سیستم رزرو تور | `ASP.NET Core` `Clean Architecture` `Angular` |
-| 🏠 **RealState** | سیستم مدیریت املاک | `ASP.NET Core` `Identity` `Angular` |
-
-<!-- 💡 اگه خواستی کارتِ ریپوها هم نشون بدی، این بخش رو از کامنت دربیار (اسم ریپوها باید دقیق باشه):
-<a href="https://github.com/amir13h/Podora">
-  <img src="https://github-readme-stats-clone-sigma-five.vercel.app/api/pin/?username=amir13h&repo=Podora&theme=tokyonight" width="32%" />
-</a>
-<a href="https://github.com/amir13h/Tourino">
-  <img src="https://github-readme-stats-clone-sigma-five.vercel.app/api/pin/?username=amir13h&repo=Tourino&theme=tokyonight" width="32%" />
-</a>
--->
 
 ---
 
